@@ -1,0 +1,19 @@
+body {
+    background-image: url("promokuva.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+p{
+    color: green;
+}
+h3{
+    color: limegreen;
+}
+
+.jumbotron{
+    background-color:rgba(0,0,0,0.5);
+}

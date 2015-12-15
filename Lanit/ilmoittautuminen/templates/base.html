@@ -1,0 +1,37 @@
+{% load staticfiles %}
+<html>
+    <head>
+        <title>PowerLan Winter 2015</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+        <style>
+            body {
+                background-image: url("{% static 'ilmoittautuminen/background.jpg' %}");
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-attachment:fixed;
+                background-size: cover;
+                background-color: #464646;
+            }
+        </style>
+
+    </head>
+    <body>
+
+        <ul class="nav nav-pills">
+          <li role="presentation" class="active"><a href="/">Etusivu</a></li>
+          <li role="presentation"><a href="/ilmoittautuminen/">Ilmoittautuminen</a></li>
+          <li role="presentation"><a href="/rekisteriseloste/">Rekisteriseloste</a></li>
+        </ul>
+        <div class="content container">
+            <div class="row">
+                <div class="col-md-8">
+                    {% block content %}
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

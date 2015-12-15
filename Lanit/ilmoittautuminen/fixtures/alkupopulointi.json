@@ -1,0 +1,562 @@
+[
+  {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 1,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 2,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 3,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 4,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 5,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 6,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 7,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 8,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 9,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 10,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 11,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 12,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 13,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "A",
+      "paikkanumero": 14,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+  {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 1,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+  {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 2,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 3,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 4,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 5,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 6,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 7,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 8,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 9,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 10,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 11,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 12,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 13,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "B",
+      "paikkanumero": 14,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 1,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 2,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 3,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 4,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+    {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 5,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 6,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 7,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 8,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 9,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 10,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 11,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 12,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 13,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "C",
+      "paikkanumero": 14,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+      {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 1,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 2,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 3,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 4,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 5,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 6,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 7,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 8,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 9,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 10,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 11,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 12,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 13,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  },
+        {
+    "model": "ilmoittautuminen.Istumapaikka",
+    "fields": {
+      "rivi": "D",
+      "paikkanumero": 14,
+      "varattu": "False",
+      "maksettu": "False",
+      "omistaja": null
+    }
+  }
+]

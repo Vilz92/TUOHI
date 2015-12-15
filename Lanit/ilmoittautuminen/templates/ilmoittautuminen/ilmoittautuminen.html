@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+
+    <!-- Tyylit varauskuvaan -->
+    <style>
+        .imageAndText {
+            position: relative;
+            display: inline;
+        }
+
+        .imageAndText .col {
+            position: absolute;
+            z-index: 1;
+            top: 0;
+            left: 0;
+        }
+        h2 {
+            color: red;
+        }
+    </style>
+    {% load crispy_forms_tags %}
+
+    {% if messages %}
+        {% for message in messages %}
+            {% if message.tags == 'error' %}
+                <div class="alert alert-danger fade in">
+                    <a href="/ilmoittautuminen/" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                    <strong>Virhe!</strong> {{ message }}
+                </div>
+            {% elif message.tags == 'success' %}
+                <div class="alert alert-success fade in">
+                    <a href="/ilmoittautuminen/" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                    <strong>Onnistui!</strong> {{ message }}
+                </div>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
+
+    <div class="row">
+        <div class="imageAndText">
+             <img src="{% static 'ilmoittautuminen/sali.png' %}">
+             <div class="col">
+                 {% for x, y in paikat%}
+                 <div>
+                     <h2 style="position: absolute;left: {{ x }}px;top: {{ y }}px">X</h2>
+                 </div>
+                 {% endfor %}
+             </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <!-- Yhteystietolomake -->
+            <form method="POST" action="" onsubmit="return confirm('Oletko varma?');"> {% csrf_token %}
+                {{ formi|crispy }}
+                <input class="btn btn-primary" type="submit" value="Lähetä" />
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

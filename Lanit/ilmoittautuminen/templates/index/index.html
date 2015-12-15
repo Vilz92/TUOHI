@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+     <link rel="stylesheet" type="text/css" href="{% static 'etusivu/tyyli.css' %}">
+    <div class="container-fluid">
+        <div class="row">
+                <h1 style="color: yellowgreen" >Tervetuloa Powerlan- verkkopelitapahtuman sivuille.</h1>
+                <div class="jumbotron">
+                    <p>Voit varata liput ja konepaikan kohdasta Ilmoittautuminen. Konepaikan hinta on 20e</p>
+
+                    <p>Tapahtuma järjestetään jo viidennettä kertaa Virtain lukion juhlasalissa 28.-30.12.2015</p>
+
+                    <h3>Miten varaan liput?</h3>
+                    <p>Menemällä kohtaan Ilmoittautuminen, näet tapahtuman konepaikat. Punaisella ruksilla merkityt paikat ovat varattuja.
+
+                    Jos varaat paikat monelle ihmiselle, varaa liput omalla nimelläsi ja valitse kohtaan Paikat kaikki haluamasi paikat pilkulla erotettuna.
+                    Esim (A1,A2,A3)</p>
+                </div>
+                <div class="jumbotron">
+                    <img src="{% static 'etusivu/malli_ilmo.jpg' %}" style="max-width: 100%">
+                    <p>Malliesimerkkinä oikein täytetty lomake paikkojen A1, A2 ja A3 varaamiseksi. Saat vahvistusviestin sähköpostiisi.</p>
+                    <p>Jos antamissasi tiedoissa on korjattavaa, ota yhteyttä henkilökuntaan osoitteeseen pwrlanparty@gmail.com</p>
+                </div>
+
+        </div>
+    </div>
+{% endblock %}
